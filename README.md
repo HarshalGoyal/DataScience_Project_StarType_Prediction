@@ -11,21 +11,3 @@ As a student and Data Science enthusiast, I seek to combine analytical, mathemat
 
 
 **Background in:** Python, Machine Learning, Data Visualization.
-
-**Links:**
-* [LinkedIn](https://www.linkedin.com/in/yaneholanda)
-* [Medium](https://www.medium.com/@yanesarmento)
-
-
-## Projects:
-See my published projects:
-
-* **Analysing the stock exchange with python:** https://bit.ly/2OMZjNV
-* **Getting insights from Telecommunications Customer Satisfaction Survey, with Python:** https://bit.ly/3n4ZDo4
-* **Predicting the star type with Machine Learning:** https://bit.ly/3v9CAuM
-* **Using Machine Learning to Detect Breast Cancer:** https://bit.ly/3zhhf5N
----
-
-
-
-
